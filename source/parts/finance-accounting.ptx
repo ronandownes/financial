@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<part xml:id="finance-accounting">
+  <title>Finance &amp; Accounting</title>
+
+  <chapter xml:id="financial-statements-accounting">
+    <title>Financial Statements and Accounting Basics</title>
+    <section xml:id="accounting-overview">
+      <title>Overview</title>
+      <p>This chapter develops the accounting language needed for finance, analysis and corporate work.</p>
+    </section>
+  </chapter>
+
+  <chapter xml:id="cash-flow-time-value-money">
+    <title>Cash Flow and the Time Value of Money</title>
+    <section xml:id="tvm-overview">
+      <title>Overview</title>
+      <p>This chapter covers discounting, compounding, present value, future value, annuities, NPV and IRR.</p>
+    </section>
+  </chapter>
+
+  <chapter xml:id="corporate-structures-spvs-aviation-finance">
+    <title>Corporate Structures, SPVs and Aviation Finance</title>
+    <section xml:id="spv-overview">
+      <title>Overview</title>
+      <p>This chapter connects corporate structures and special purpose vehicles to practical aviation finance.</p>
+    </section>
+  </chapter>
+</part>
