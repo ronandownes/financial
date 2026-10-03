@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<part xml:id="operations-research-optimisation">
+  <title>Operations Research &amp; Optimisation</title>
+
+  <chapter xml:id="operations-research-one">
+    <title>Operations Research I</title>
+
+    <section xml:id="or-introduction">
+      <title>Introduction to Operations Research</title>
+      <p>Operations research uses mathematical models to support decisions involving limited resources, competing objectives and constraints.</p>
+    </section>
+
+    <section xml:id="or-modelling">
+      <title>Mathematical Modelling</title>
+      <p>This section develops decision variables, objective functions, constraints and model interpretation.</p>
+    </section>
+
+    <section xml:id="or-linear-programming">
+      <title>Linear Programming</title>
+      <p>Lecture material covering the same mathematical idea will be consolidated here rather than preserved as separate lecture pages.</p>
+    </section>
+  </chapter>
+</part>
