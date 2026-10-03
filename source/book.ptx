@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <book xml:id="financial-mathematics">
+    <title>Financial Mathematics</title>
+    <subtitle>Finance, Modelling, Data and Quantitative Methods</subtitle>
+
+    <frontmatter>
+      <titlepage/>
+      <preface xml:id="preface">
+        <title>About This Book</title>
+        <p>This book develops financial mathematics as a connected subject rather than as a collection of isolated university modules. Its structure can evolve as material is added.</p>
+      </preface>
+    </frontmatter>
+
+    <xi:include href="parts/finance-accounting.ptx"/>
+    <xi:include href="parts/probability-statistics-risk.ptx"/>
+    <xi:include href="parts/operations-research-optimisation.ptx"/>
+    <xi:include href="parts/numerical-applied-mathematics.ptx"/>
+    <xi:include href="parts/computing-data-modelling.ptx"/>
+    <xi:include href="parts/applications-projects.ptx"/>
+  </book>
+</pretext>
